@@ -72,7 +72,7 @@ main {
     margin-left: 20px;
 }
 
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -98,12 +98,12 @@ main {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+.benefit-lead h1 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
+.benefit-brand h2 {
     margin-bottom: 10px;
     text-align: center;
 }
