@@ -20,9 +20,8 @@ header {
 
 /*Properties for h1 within header code block.*/
 header h1 {
-    display: inline-block;
+    display: inline;
     font-size: 48px;
-    color: #d9dcd6;
 }
 
 /*Properties for sections within header code block.*/
@@ -41,7 +40,7 @@ header section ul {
 
 /*Properties for li element in the ul section within header code block.*/
 header section ul li {
-    display: inline-block;
+    display: inline;
     margin-left: 25px;
 }
 
@@ -86,8 +85,8 @@ main {
 }
 
 
-/*Properties for the search engine optimization class within the main element.*/
-.search-engine-optimization {
+/*Properties for the section classes within the main element. Effects Search Engine Optimization(SEO), Online Reputation Management(ORM), Social Media Marketing(SMM) classes.*/
+main section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -96,55 +95,13 @@ main {
     color: #ffffff;
 }
 
-/*Properties for the online reputation management class within the main element.*/
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #006411;
-    color: #ffffff;
-}
-
-/*Properties for the social media marketing class within the main element.*/
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #006411;
-    color: #ffffff;
-}
-
-/*Properties for the image within the search engine optimization class.*/
-.search-engine-optimization img {
+/*Properties for the image within the SEO, ORM, SMM class.*/
+main section img {
     max-height: 200px;
 }
 
-/*Properties for the image within the online reputation management class.*/
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-/*Properties for the image within the social media marketing class.*/
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-/*Properties for the h1 header text within search engine optimization class.*/
-.search-engine-optimization h1 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/*Properties for the h2 header text within online reputation management class.*/
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/*Properties for the h3 header text within social media marketing class.*/
-.social-media-marketing h3 {
+/*Properties for the h1, h2, h3 header text within SEO, ORM, SMM class.*/
+main section h1, h2, h3 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -161,58 +118,20 @@ aside {
     background-color: #006411;
 }
 
-/*Properties for the benefit-lead class used within the aside section.*/
-.benefit-lead {
+/*Properties for the entire section class used within the aside code block. Effects the section.*/
+aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/*Properties for the benefit-brand class used within the aside section.*/
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-/*Properties for the benefit-cost class used within the aside section.*/
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-/*Properties for the benefit-lead h1 class used within the aside section. Effects the h1 header.*/
-.benefit-lead h1 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/*Properties for the benefit-brand h2 class used within the aside section. Effects the h2 header.*/
-.benefit-brand h2 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/*Properties for the benefit-cost h3 class used within the aside section. Effects the h3 header.*/
-.benefit-cost h3 {
+/*Properties for the h4, h5, h6 element used within the aside code block. Effects the h1, h2, h3 header.*/
+aside section h4, h5, h6 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 /*Properties for the benefit-lead img class used within the aside section. Effects the image.*/
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/*Properties for the benefit-brand img class used within the aside section. Effects the image.*/
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/*Properties for the benefit-cost img class used within the aside section. Effects the image.*/
-.benefit-cost img {
+aside section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
