@@ -11,8 +11,8 @@ Sign up today! <br>
 Use the link below to start! <br>
 
 ## Image
-![plot](./assets/images/Website Preview 1.png)
-![plot](./assets/images/Website Preview 2.png)
+![Alt text](relative%20path/to/img.jpg?raw=true "Website Preview 1")
+![Alt text](relative%20path/to/img.jpg?raw=true "Website Preview 2")
 
 ## Website Link
 Link: [Coming Soon]
