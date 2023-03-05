@@ -11,8 +11,9 @@ Sign up today! <br>
 Use the link below to start! <br>
 
 ## Image
-[Coming Soon!]
+![plot](./assets/images/Website Preview 1.png)
+![plot](./assets/images/Website Preview 2.png)
 
 ## Website Link
-[Coming Soon!]
+Link: [Coming Soon]
 
