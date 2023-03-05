@@ -25,6 +25,11 @@ header h1 {
     font-size: 48px;
 }
 
+/*Properties for text "Terra" of "Modern Terra" within header code block.*/
+header h1 .terra {
+    color: #c46200;
+}
+
 /*Properties for sections within header code block.*/
 header section {
     padding-top: 15px;
