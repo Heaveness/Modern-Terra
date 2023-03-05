@@ -11,8 +11,8 @@ Sign up today! <br>
 Use the link below to start! <br>
 
 ## Image
-![Alt text](relative%20path/to/img.jpg?raw=true "Website Preview 1")
-![Alt text](relative%20path/to/img.jpg?raw=true "Website Preview 2")
+![Alt text](relative%20path/to/img.jpg?raw=true "Website Preview 1.png")
+![Alt text](relative%20path/to/img.jpg?raw=true "Website Preview 2.png")
 
 ## Website Link
 Link: [Coming Soon]
