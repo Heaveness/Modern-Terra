@@ -21,7 +21,7 @@ header {
 
 /*Properties for h1 within header code block.*/
 header h1 {
-    display: inline;
+    display: inline-block;
     font-size: 48px;
 }
 
@@ -38,7 +38,7 @@ header section {
 header section ul li,
 a {
     list-style-type: none;
-    display: inline;
+    display: inline-block;
     margin-left: 25px;
     color: #ffffff;
     text-decoration: none;

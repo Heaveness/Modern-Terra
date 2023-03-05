@@ -11,11 +11,11 @@ Sign up today! <br>
 Use the link below to start! <br>
 
 ## Website Link
-Link: [Coming Soon] <br>
+Link: [Website Link](https://heaveness.github.io/Modern-Terra/) <br>
 
 ## Preview Images
-![Website Preview Image](/Terra/assets/images/Website-Preview-1.png) <br>
-![Website Preview Image](/Terra/assets/images/Website-Preview-2.png) <br>
+![Website Preview Image](/assets/images/Website-Preview-1.png) <br>
+![Website Preview Image](/assets/images/Website-Preview-2.png) <br>
 
 ## Credits
 Website: Horiseon Social Solution, Inc. (Original Name) <br>
