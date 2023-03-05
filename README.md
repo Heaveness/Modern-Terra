@@ -10,10 +10,16 @@ The **Social Media Marketing(SMM)** will provide assistance on what platforms ar
 Sign up today! <br>
 Use the link below to start! <br>
 
-## Image
+## Website Link
+Link: [Coming Soon] <br>
+
+## Preview Images
 ![Website Preview Image](/Terra/assets/images/Website-Preview-1.png) <br>
 ![Website Preview Image](/Terra/assets/images/Website-Preview-2.png) <br>
 
-## Website Link
-Link: [Coming Soon]
-
+## Credits
+Website: Horiseon Social Solution, Inc. (Original Name) <br>
+Starter Code: Xandromus <br>
+Instructor(s): Ali Maqsood, Daler Singh <br>
+Assistant Instructor(s): Shihan, Adam, Krishna, Tareque Moatar <br>
+Institution: University of Toronto <br>
