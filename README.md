@@ -11,7 +11,7 @@ Sign up today! <br>
 Use the link below to start! <br>
 
 ## Website Link
-Link: [Website Link](https://heaveness.github.io/Modern-Terra/) <br>
+Link: [Website Link to Modern Terra Social Solution, Inc.](https://heaveness.github.io/Modern-Terra/) <br>
 
 ## Preview Images
 ![Website Preview Image](/assets/images/Website-Preview-1.png) <br>
